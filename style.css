@@ -1,0 +1,57 @@
+body{
+    background-color: azure;
+}
+
+.main{
+    
+    background-color: blueviolet;
+    text-shadow: none;
+
+}
+
+.h1 {
+    color: aqua;
+    font-size: 14px;
+}
+.p {
+    font-size: 50pt;
+    font-family: sans-serif;
+    text-shadow: 10px 11px 18px rgb(300, 180, 100, 1) -10px -11px 18px red;
+}
+
+.imgRedonda {
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    border: 10px solid #666;
+
+}
+ 
+.div {
+    background-image: url("URL HINTERGRUNDBILDES");
+    background-attachment: fixed;
+    transform: scale(1.25);
+}
+
+.video {
+    background-color: antiquewhite;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
